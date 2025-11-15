@@ -104,9 +104,8 @@ def domain_age(domain):
 
 
 def ua_info(ua):
-    print("User-agent received:")
+    print("User-agent received:", ua)
 
-", ua)
 
 
 def port_scan(host):
